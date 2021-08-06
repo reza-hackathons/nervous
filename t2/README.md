@@ -6,5 +6,5 @@
 ## 2.The transaction hash from the contract deployment (in text format)
 Transaction hash: `0x2fcfe561d81f316a1b1fb46ddc8b1f9fcc3d4d9a659f0838eceaf07ecaa77ecc`
 
-## 3. 
+## 3. The deployed contract address from the contract deployment (in text format)
 Deployed contract address: `0x423D28bbF678a7ac9E3D707f2F96d957e4Ded7c9`
